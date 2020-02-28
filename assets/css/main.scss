@@ -10,7 +10,7 @@ $header-text-color: #0277bd;
 $masthead-text-color: #ffffff;
 $masthead-background-color: #2c3e4f;
 $footer-background-color: #2c3e4f;
-
+$footer-text-color: #ffffff;
 
 
 /* Body */
@@ -78,9 +78,12 @@ $masthead-background-color: #2c3e4f;
 
 
 /* Page footer. */
-.page__footer {
-    color: $masthead-text-color;
+.page__footer,
+.page__footer-copyright,
+.page__footer-follow {
+    color: $footer-text-color;
 }
+
 
 
 /* Sidebar. */
