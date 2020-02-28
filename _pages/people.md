@@ -14,5 +14,5 @@ classes: wide
 * [Mark Liberman](https://www.ling.upenn.edu/~myl/), Linguistic Data Consortium, University of Pennsylvania
 
 
-# Invited speakers (in alphabetical order)
+# Invited speakers
 **TBD**
