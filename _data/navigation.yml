@@ -1,0 +1,15 @@
+sbar:
+  - title: About
+    url: "/index"
+  - title: Venue
+    url: "/venue"
+  - title: Dates
+    url: "/dates"
+  - title: Submission
+    url: "/submission"
+  - title: Registration
+    url: "/registration"
+  - title: Program
+    url: "/program"
+  - title: People
+    url: "/people"
