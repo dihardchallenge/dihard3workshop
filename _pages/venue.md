@@ -5,7 +5,7 @@ classes: wide
 ---
 
 # Venue
-The workshop will be held on the day before the beginning of Interspeech (September 14th)
+The workshop will be held on the day before the beginning of Interspeech (October 25th)
 at the [Shanghai International Convention Center (SHICC)](http://www.interspeech2020.org/html/travel/Conference_Venue/),
 located in the Lujiazui-Shanghai Financial and Trade zone. SHICC is also the site of all
 Interspeech tutorials and paper/poster sessions, making the location convenient to conference goers.
