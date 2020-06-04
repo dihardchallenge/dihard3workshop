@@ -5,7 +5,7 @@ classes: wide
 ---
 
 # Submission
-DIHARD III participants are invited to submit 2-page extended abstracts via the
+[DIHARD III](https://dihardchallenge.github.io/dihard3/) participants are invited to submit 2-page extended abstracts via the
 [CMT conference management system](https://cmt3.research.microsoft.com/DIHARDW2020).
 These abstracts should focus on providing a technical
 description of the systems submitted to the challenge and their results on the DIHARD III
