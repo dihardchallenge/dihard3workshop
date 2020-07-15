@@ -12,14 +12,14 @@ description of the systems submitted to the challenge and their results on the D
 development and evaluation sets; additional results from other datasets also welcome.
 
 The deadline for these extended abstracts is
-[Monday October 5th, midnight anywhere on Earth (AoE)](https://www.timeanddate.com/countdown/generic?iso=20201005T235959&p0=3399&msg=DIHARD+III+Workshop+Abstract+Submission&font=sanserif&csz=1).
+[December 21st, 2020, midnight anywhere on Earth (AoE)](https://www.timeanddate.com/countdown/generic?iso=20201221T235959&p0=3399&msg=DIHARD+III+Workshop+Abstract+Submission&font=sanserif&csz=1).
 
 
 # Review
-All abstracts will be reviewed to ensure that the challenge rules were followed and
-sufficient information for interpreting the results provided. Abstracts that conform to
-these constraints will be accepted for presentation at the workshop as either a talk or
-poster.
+All abstracts will be reviewed to ensure that the challenge rules were
+followed and sufficient information for interpreting the results provided.
+Abstracts that conform to these constraints will be accepted for presentation
+at the workshop as either a talk or poster.
 
 
 # Author kit
