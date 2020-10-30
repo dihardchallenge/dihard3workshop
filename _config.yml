@@ -78,6 +78,10 @@ defaults:
         nav: "sbar"
 
 
+# Metadata.
+repository: "dihardchallenge/dihard3workshop"
+
+
 # Plugins
 plugins:
   - jekyll-include-cache
