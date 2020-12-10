@@ -16,7 +16,7 @@ The deadline for these extended abstracts is
 
 # Instructions
 Instructions to complete the submission process:  
-  1. Create a user account in the **[submission system](https://cmt3.research.microsoft.com/DIHARDW2020)** and log in.  
+  1. Create a user account in the **[Submission System](https://cmt3.research.microsoft.com/DIHARDW2020)** and log in.  
   2. Go to "**All Conferences**" tab in the system and type dihard to filter the list.  
   3. Select "**The Third DIHARD Speech Diarization Challenge Workshop**".  
   4. Make sure "**Select Your Role**" is "**Author**".  
