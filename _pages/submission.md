@@ -26,7 +26,7 @@ Instructions to complete the submission process:
 > + Add other authors for the paper, and re-order if necessary.  
 > + Upload your **paper** into the "**FILES**" section.    
 > + Click "**Submit**".   
-> + Clicl "**Done**".
+> + Click "**Done**".
     
 
 # Review
