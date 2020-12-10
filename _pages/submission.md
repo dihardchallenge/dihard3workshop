@@ -14,6 +14,19 @@ development and evaluation sets; additional results from other datasets also wel
 The deadline for these extended abstracts is
 [December 21st, 2020, midnight anywhere on Earth (AoE)](https://www.timeanddate.com/countdown/generic?iso=20201221T235959&p0=3399&msg=DIHARD+III+Workshop+Abstract+Submission&font=sanserif&csz=1).
 
+# Instructions
+Instructions to complete the submission process:  
+  1. Create a user account in the **[submission system](https://cmt3.research.microsoft.com/DIHARDW2020)** and log in.  
+  2. Go to "**All Conferences**" tab in the system and type dihard to filter the list.  
+  3. Select "**The Third DIHARD Speech Diarization Challenge Workshop**".  
+  4. Make sure "**Select Your Role**" is "**Author**".  
+  5. Click "**Create new submission**" button.
+    - Please fill in names and affiliations of all authors.
+    - Fill in submission details(title and abstract).  
+    - Add other authors for the paper, and re-order if necessary.  
+    - Upload your **paper** into the "**FILES**" section.    
+    - Click "**Submit**".    
+    
 
 # Review
 All abstracts will be reviewed to ensure that the challenge rules were
