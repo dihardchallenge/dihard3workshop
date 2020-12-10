@@ -21,11 +21,11 @@ Instructions to complete the submission process:
   3. Select "**The Third DIHARD Speech Diarization Challenge Workshop**".  
   4. Make sure "**Select Your Role**" is "**Author**".  
   5. Click "**Create new submission**" button.  
-    - Please fill in names and affiliations of all authors.  
-    - Fill in submission details(title and abstract).    
-    - Add other authors for the paper, and re-order if necessary.  
-    - Upload your **paper** into the "**FILES**" section.    
-    - Click "**Submit**".    
+      - Please fill in names and affiliations of all authors.  
+      - Fill in submission details(title and abstract).    
+      - Add other authors for the paper, and re-order if necessary.  
+      - Upload your **paper** into the "**FILES**" section.    
+      - Click "**Submit**".    
     
 
 # Review
