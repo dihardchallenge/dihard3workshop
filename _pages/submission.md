@@ -27,7 +27,9 @@ Instructions to complete the submission process:
 > + Upload your **paper** into the "**FILES**" section.    
 > + Click "**Submit**".   
 > + Click "**Done**".
-    
+
+
+**Note:** the submission system does not any send confirmation email. You can check that your submission has been taken into account in your author console.
 
 # Review
 All abstracts will be reviewed to ensure that the challenge rules were
