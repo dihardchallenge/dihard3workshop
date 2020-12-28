@@ -11,7 +11,7 @@ These abstracts should focus on providing a technical
 description of the systems submitted to the challenge and their results on the DIHARD III
 development and evaluation sets; additional results from other datasets also welcome.
 
-The deadline for these extended abstracts is [December 28th, 2020, midnight anywhere on Earth (AoE)](https://www.timeanddate.com/countdown/generic?iso=20201228T235959&p0=3399&msg=DIHARD+III+Workshop+Abstract+Submission&font=sanserif).
+The deadline for these extended abstracts is [December 30th, 2020, midnight anywhere on Earth (AoE)](https://www.timeanddate.com/countdown/generic?iso=20201230T235959&p0=3399&msg=DIHARD+III+Workshop+Abstract+Submission&font=sanserif).
 
 
 # Instructions
