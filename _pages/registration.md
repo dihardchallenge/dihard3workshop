@@ -13,4 +13,3 @@ The Workshop will be run using Zoom Webinar. To register please complete the reg
 
 **Note:** Once you have registered you will receive an email with the **link** and **password** needed to access the event.  
 
-Registration will be closed on Saturday 23st January.  
