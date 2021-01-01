@@ -12,4 +12,5 @@ The Workshop will be run using Zoom Webinar. To register please complete the reg
 **[Register for DIHARD III](https://us02web.zoom.us/webinar/register/WN_0Hy_R_BjToCNUystv22C2Q)**
 
 **Note:** Once you have registered you will receive an email with the **link** and **password** needed to access the event.  
+
 Registration will be closed on Saturday 23st January.  
