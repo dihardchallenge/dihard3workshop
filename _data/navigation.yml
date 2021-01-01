@@ -9,6 +9,8 @@ sbar:
     url: "/submission"
   - title: Registration
     url: "/registration"
+  - title: Presentation
+    url: "/presentation"
   - title: Program
     url: "/program"
   - title: People
