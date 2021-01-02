@@ -3,8 +3,8 @@ title: ""
 permalink: /presentation.html
 classes: wide
 ---
-# Oral session
-The oral presentation for each team consists of the presentation using pre-recorded video and live Q&A (20 mins in total). The video will be cast on the virtual platform by the organizers which is followed by live Q&A. Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. Audience could "raise hand" by Zoom Webinar to propose quenstions or text questions in the dialog box of Webinar. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
+# Oral presention
+In the virtual workshop, the oral presentation for each team consists of a pre-recorded video playback and a live Q&A part (20 mins in total). The video will be cast on the virtual platform by the organizers which is followed by live Q&A. Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. Audience could "raise hand" by Zoom Webinar to propose quenstions or text questions in the dialog box of Webinar. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
 
 # Guidelines for slide and video preparation
 For extention of each abstract submitted, we request a video of a slide presentation which satisfies the following requirements:
