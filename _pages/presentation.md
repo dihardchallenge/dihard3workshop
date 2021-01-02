@@ -16,7 +16,8 @@ You could use [zoom](https://us02web.zoom.us/) to record your presentation. Here
 > + Click "Screen Sharing" and select your slide.
 > + Click "recording" to start recording your presetation.  
 > + Then finish recording and close the meeting, the video will be created.  
-For detailed instructions, [here](https://ieeetv.ieee.org/ieeetv-specials/recording-your-presentation-with-zoom) is a useful HotTo video produced by the IEEE.
+
+For detailed instructions, [here](https://ieeetv.ieee.org/ieeetv-specials/recording-your-presentation-with-zoom) is a useful HotTo video produced by the IEEE.  
 Also, other recording tools are available like the [recordscreen.io](https://recordscreen.io/) if zoom is not useful, just guarantee the final video meets the requirement. 
 
 # Presentation Upload
