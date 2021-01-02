@@ -4,7 +4,7 @@ permalink: /presentation.html
 classes: wide
 ---
 # Oral presention
-In the virtual workshop, the oral presentation for each team consists of a pre-recorded video playback and a live Q&A part (20 mins in total). The video will be cast on the virtual platform by the organizers which is followed by live Q&A. Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. Audience could "raise hand" by Zoom Webinar to propose quenstions or text questions in the dialog box of Webinar. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
+In the virtual workshop, the oral presentation for each team consists of a pre-recorded video playback and a live Q&A part (20 mins in total). The video will be cast on the virtual platform by the organizers which is followed by live Q&A. 
 
 # Guidelines for slide and video preparation
 For extention of each abstract submitted, we request a video of a slide presentation which satisfies the following requirements:
@@ -36,6 +36,8 @@ The presentation video and slide should be submitted via [CMT conference managem
 The deadline for submission is 16 January 2021.
 
 # Question and Answer session
-
+Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. There are two methods to submit questions:
+1. Audience could click "Raise Hand" button to request speaking. 
+2. Audience could click "Q&A" button and text questions in the dialog box. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
 
 
