@@ -11,7 +11,7 @@ For authors of each paper accepted for oral presentation, we request a video of 
 > + Video size: less than 350 MB    
 > + Showing the presenter's face in a small window
 
-You could use [zoom](https://us02web.zoom.us/) to record your presentation. Here is the simple instructions record a presentation:
+You could use [zoom](https://us02web.zoom.us/) to record your presentation. Here are simple instructions record a presentation:
 > + Sign in and start a meeting with video on.  
 > + Click "Screen Sharing" and select your slide.
 > + Click "recording" to start recording your presetation.  
