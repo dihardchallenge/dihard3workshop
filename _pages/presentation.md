@@ -37,7 +37,7 @@ The deadline for submission is 16 January 2021.
 
 # Question and Answer session
 Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. There are two methods to submit questions:
-1. Audience could click the "Raise Hand" button to request speaking. 
-2. Audience could click "Q&A" button and text questions in the dialog box. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
+1. Click the "Raise Hand" button to request asking questions live after the video.  
+2. Click "Q&A" button to open the Q&A platform and text questions in the dialog box. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
 
 
