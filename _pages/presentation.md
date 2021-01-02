@@ -31,7 +31,6 @@ Other recording tools are available like [recordscreen.io](https://recordscreen.
 The presentation video and slide should be submitted via [CMT conference management system](https://cmt3.research.microsoft.com/DIHARDW2020) as "Camera Ready" of your submitted paper. 
 After the notification of accepted Papers have been sent, the Authors of accepted Papers will get an email from the Chair instructing them to upload the camera-ready file. If the Paper is rejected, there will be no link. Instructions to complete the submission process: 
  + Click on the link "Create Camera Ready Submission".  
- + Edit the title, abstract, and author information
  + Upload your video on "Files" section 
  + Click "Submit".
 
