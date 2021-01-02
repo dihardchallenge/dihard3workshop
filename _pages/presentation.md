@@ -5,7 +5,6 @@ classes: wide
 ---
 # Oral session
 The oral presentation for each team consists of the presentation using submitted video (15 minutes) and live Q&A (5 minutes). The presentation video will be cast on the virtual platform by the organizers and live Q&A will be followed. Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. Audience could "raise hand" by Zoom Webinar to propose quenstions or text questions in the dialog box of Webinar. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
-Detailed scheduled time for DIHARD-III Workshop will be later posted on **[Programme](https://dihardchallenge.github.io/dihard3workshop/program)** 
 
 # Guidelines for slide and video preparation
 For extention of each abstract submitted, we request a video of a slide presentation which satisfies the following requirements:
