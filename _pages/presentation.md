@@ -32,5 +32,5 @@ The deadline for submission is 16 January 2021.
 
 # Oral session
 The oral presentation for each team consists of the presentation using submitted video (15 minutes) and live Q&A (5 minutes). The presentation video will be cast on the virtual platform by the organizers and live Q&A will be followed. Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. At least one of the authors must attend the live Q&A. 
-Detailed scheduled times for DIHARD-III Workshop will be later posted on **[Programme](https://dihardchallenge.github.io/dihard3workshop/program)** 
+Detailed scheduled time for DIHARD-III Workshop will be later posted on **[Programme](https://dihardchallenge.github.io/dihard3workshop/program)** 
 
