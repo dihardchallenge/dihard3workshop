@@ -3,7 +3,7 @@ title: ""
 permalink: /presentation.html
 classes: wide
 ---
-# Oral presention
+# Oral presentation
 In the virtual workshop, the oral presentation for each team consists of a pre-recorded video playback and a live Q&A part (20 mins in total). The video will be cast on the virtual platform by the organizers which is followed by live Q&A. 
 
 # Guidelines for slide and video preparation
