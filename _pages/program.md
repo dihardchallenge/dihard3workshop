@@ -6,7 +6,7 @@ classes: wide
 
 
 # Program Overview
-Date Time: Saturday, January 23rd, 2021, 12:00 UTC 
+Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC 
 
 > 12:00	 Welcome  
 > 12:10  Oral session 1  
