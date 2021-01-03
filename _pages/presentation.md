@@ -36,8 +36,8 @@ The presentation video and slide should be submitted via [CMT conference managem
 The deadline for submission is 16 January 2021.
 
 # Question and Answer session
-Questions will be posted by the audience using Zoom Webinar's Q&A tool and presenters will then be able to answer them live after the video. There are two methods to submit questions:
-1. Click the "Raise Hand" button to request asking questions live after the video.  
-2. Click "Q&A" button to open the Q&A platform and text questions in the dialog box. The session chairs will select questions submitted by audience and convey them to the presenting authors. 
+Q&A session can be conducted between presenters and audiences after the video playing with the coordination of the session chair and organizer. There are two modes for Q&A in Zoom Webinar:
+ + Text mode: the audiences click the “Q&A” button to open a dialog box and can text the questions in it anytime during the presentation. The presenter can answer it by either text response or live audio response.   
+ + Audio mode: the audiences click the “Raise Hand” button to request the audio communication. Then the organizer might select some audiences and unmute their audio setting. In this way, the presenter and audience can have a live conversation.  
 
 
