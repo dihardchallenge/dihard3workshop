@@ -35,7 +35,7 @@ The presentation video and slide should be submitted via [CMT conference managem
  + Upload your video and slide on the "Files" section. 
  + Click "Submit".
 
-The deadline for submission is 16 January 2021.
+The deadline for submission is January 16th, 2021 at midnight [Anywhere on Earth](https://en.wikipedia.org/wiki/Anywhere_on_Earth).
 
 # Question and Answer session
 Q&A session can be conducted between presenters and audiences after the video playing with the coordination of the session chair and organizer. There are two modes for Q&A in Zoom Webinar:
