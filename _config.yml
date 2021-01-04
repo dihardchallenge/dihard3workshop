@@ -23,6 +23,7 @@ description: The Third DIHARD Speech Diarization Challenge Workshop
 email: dihardchallenge@gmail.com
 baseurl: "/dihard3workshop"
 url: "https://dihardchallenge.github.io"
+future: true
 
 
 # Theme settings.
