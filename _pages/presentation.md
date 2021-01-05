@@ -40,5 +40,5 @@ The deadline for submission is January 16th, 2021 at midnight [Anywhere on Earth
 # Question and Answer session
 Q&A session can be conducted between presenters and audiences after the video playing with the coordination of the session chair and organizer. There are two modes for Q&A in Zoom Webinar:
  + **Text mode**: the audience members click the “Q&A” button to open a dialog box and can submit their questions in written form at any time during the presentation. The presenter can answer their questions by either text response or live audio response.   
- + **Audio mode**: the audience members click the “Raise Hand” button to request the audio communication. The moderator will then unmute one audience memeber at a time to allow them to ask their qeustion. This mimics the Q&A period of an in person session at a conference and allows the presenter and audience to have a spoken conversation.
+ + **Audio mode**: the audience members click the “Raise Hand” button to request the audio communication. The moderator will then unmute one audience memeber at a time to allow them to ask their question. This mimics the Q&A period of an in person session at a conference and allows the presenter and audience to have a spoken conversation.
 
