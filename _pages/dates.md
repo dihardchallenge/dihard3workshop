@@ -14,7 +14,7 @@ classes: wide
 | **evaluation period ends**         |  ~~December 21st, 2020~~ <span style="color:red">(December 30th, 2020)</span>    |
 | **abstract submission deadline**   |  ~~December 21st, 2020~~ <span style="color:red">(December 30th, 2020)</span>    |
 | **submit presentation videos/slides** |  January 16th, 2021
-| **registration deadline**          |  TBD                    |
+| **registration deadline**          |  January 23rd, 2021     |
 | **workshop**                       |  January 23rd, 2021     |
 
 
