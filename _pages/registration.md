@@ -10,5 +10,5 @@ The Third DIHARD Speech Diarization Challenge Workshop is free to attend and is 
 
 **[Register for DIHARD-III Workshop](https://us02web.zoom.us/webinar/register/WN_0Hy_R_BjToCNUystv22C2Q)**
 
-**Note:** Once you have registered you will receive an email with the **link** and **password** needed to access the event.  
+**Note:** Once you have registered you will receive an email with the **link** and **password** needed to access the event. The deadline for registraion is **January 23rd, 2021**.
 
