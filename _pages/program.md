@@ -18,4 +18,4 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 > 16:20	 Keynote 2  
 > 17:20	 Break  
 > 17:30	 Oral session 3  
-> 18:50	 Closing  
+> 18:30	 Closing  
