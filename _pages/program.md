@@ -26,7 +26,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <div>
   12:05 &nbsp;&nbsp;<strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>
   </div>
-  <div style="margin-left: 56px">
+  <div style="margin-left: 60px">
   Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup>  
    (<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)
   <br />
