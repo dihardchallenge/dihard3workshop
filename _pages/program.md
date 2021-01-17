@@ -170,7 +170,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <img
       src="https://i.loli.net/2021/01/17/wiXuJCcyQNI52Ga.jpg"
       alt="avatar"
-      style="width: 260px; height: 260px; border-radius: 50%; margin-left: 20px;"
+      style="width: 230px; height: 230px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Mireia Diez Sánchez</div>
@@ -190,7 +190,7 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
     <img
       src="https://i.loli.net/2021/01/17/BetiW4OxXw9Rrqv.jpg"
       alt="avatar"
-      style="width: 260px; height: 260px; border-radius: 50%; margin-left: 20px;"
+      style="width: 230px; height: 230px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
