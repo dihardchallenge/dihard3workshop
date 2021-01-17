@@ -36,10 +36,10 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 2
 14:50  **System Description for Team DKU-Duke-Lenovo**    
-  - Weiqing Wang<sup>1</sup>, Ming Li<sup>2</sup>,  Qinjian Lin<sup>3</sup> (<sup>1</sup>Duke University; <sup>2</sup>Duke Kunshan University; <sup>3</sup>Lenovo)
+- Weiqing Wang<sup>1</sup>, Ming Li<sup>2</sup>,  Qinjian Lin<sup>3</sup> (<sup>1</sup>Duke University; <sup>2</sup>Duke Kunshan University; <sup>3</sup>Lenovo)
 
 15:10  **The USTC-NELSLIP Systems for DIHARD III Challenge**    
-  - Mao-Kui He<sup>1</sup>, Yuxuan Wang<sup>1</sup>, Shutong Niu<sup>1</sup>, Lei Sun<sup>1</sup>,Tian Gao<sup>2</sup>, Xin Fang<sup>2</sup>, Jia Pan<sup>2</sup>, Jun Du<sup>1</sup>, Chin-Hui Lee<sup>3</sup> (<sup>1</sup>University of Science and Technology of China; <sup>2</sup>iFlytek Research; <sup>3</sup>Georgia Institute of Technology)
+- Mao-Kui He<sup>1</sup>, Yuxuan Wang<sup>1</sup>, Shutong Niu<sup>1</sup>, Lei Sun<sup>1</sup>,Tian Gao<sup>2</sup>, Xin Fang<sup>2</sup>, Jia Pan<sup>2</sup>, Jun Du<sup>1</sup>, Chin-Hui Lee<sup>3</sup> (<sup>1</sup>University of Science and Technology of China; <sup>2</sup>iFlytek Research; <sup>3</sup>Georgia Institute of Technology)
 
 15:30  **LEAP Submission for the Third DIHARD Diarization Challenge**  
   - Prachi Singh<sup>1</sup>, Rajat Varma<sup>1</sup>, Venkat Krishnamohan<sup>1</sup> Srikanth Raj Chetupalli<sup>1</sup>, Sriram Ganapathy(<sup>1</sup>) (<sup>1</sup>Indian Institute of Science, Bangalore)
