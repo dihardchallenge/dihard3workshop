@@ -79,7 +79,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>
   </div>
   <div style="margin-left: 60px">
-  Weiqing Wang<sup>1</sup>, Ming Li<sup>2</sup>,  Qinjian Lin<sup>3</sup> 
+  Weiqing Wang<sup>1</sup>, Ming Li<sup>2</sup>,  Qinjian Lin<sup>3</sup>, Danwei Cai, Ming Li
    (<sup>1</sup>Duke University; <sup>2</sup>Duke Kunshan University; <sup>3</sup>Lenovo)
     <br />
   <br />
@@ -170,7 +170,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <img
       src="https://i.loli.net/2021/01/17/wiXuJCcyQNI52Ga.jpg"
       alt="avatar"
-      style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
+      style="width: 220px; height: 220px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Mireia Diez Sánchez</div>
