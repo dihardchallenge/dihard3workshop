@@ -79,7 +79,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>
   </div>
   <div style="margin-left: 60px">
-  Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai, Danwei Cai, Ming Li<sup>2</sup>
+  Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai<sup>1</sup>, Lin Yang, Ming Li<sup>2</sup>
    (<sup>1</sup>Duke University; <sup>2</sup>Duke Kunshan University; <sup>3</sup>Lenovo)
     <br />
   <br />
