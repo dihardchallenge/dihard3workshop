@@ -22,7 +22,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 1
 
-<div style="width:660px;">
+<div style="width:860px;">
   <div>
   12:05 <strong>  Overview of the Third DIHARD Speech Diarization Challenge</strong>
   </div>
