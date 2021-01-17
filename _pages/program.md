@@ -186,13 +186,13 @@ Speaker diarization based on Bayesian HMM and variational Bayes inference was pa
 Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno University of Technology. Mireia received her Electronic Engineering degree in 2009, and her PhD in 2015, both from the University of the Basque Country, Spain. Her thesis focused on the study of features for Language and Speaker recognition. In 2016 she obtained an individual Marie Curie fellowship for the SpeakerDICE project dealing with diarization tasks. She has attended several international workshops dedicated to the field of speaker recognition and diarization: Bosaris (Brno, 2012), ASRWIS (South Africa, 2016) and SCALE (Baltimore, 2017). Recently, she has successfully coordinated the BUT team for the DIHARD challenges. Her research interests are mainly speaker diarization, speaker and language recognition and Bayesian inference.
 
 # Keynote 2
- <div style="display: flex; flex-direction: row;height: 260px; align-items: center;background-color: white; ">
+ <div style="display: flex; flex-direction: row;height: 300px; align-items: center;background-color: white; ">
     <img
       src="https://i.loli.net/2021/01/17/BetiW4OxXw9Rrqv.jpg"
       alt="avatar"
-      style="width: 230px; height: 230px; border-radius: 50%; margin-left: 20px;"
+      style="width: 220px; height: 220px; border-radius: 50%; margin-left: 20px;"
     />
-    <div style="margin-left: 30px;">
+    <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
       <br />
