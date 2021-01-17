@@ -69,14 +69,15 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
-      <div>The yellow brick road of diarization, challenges and other neural paths</div>
+      <div>Title: The yellow brick road of diarization, challenges and other neural paths</div>
     </div>
   </div>
 **The yellow brick road of diarization, challenges and other neural paths**      
 abstract   
 The question "Who spoke when?" in a recording has become crucial in speech technologies research. Answering this question may improve the performance of downstream applications such as automatic speech recognition, speaker recognition, meeting transcription, and other related fields. Diarization systems seek to answer this question. However, the automatic speaker labeling can be challenging in part due to noisy conditions, speakers talking simultaneously, and imbalanced participation of the speakers. Advances in diarization involve the pursuit of creative new solutions to these problems. In this presentation, we will walk through the yellow brick road of diarization—going briefly from state-of-the-art techniques up through novel neural approaches. We will discuss the challenges of the embedding-clustering method and how neural diarization aims to solve them by formulating the problem as a multi-label classification problem, additionally exploring how neural diarization can elegantly handle overlapping speech. We will detail the benefits of both embedding-clustering and neural diarization and give some hints on how to attain the best of both. Finally, we will discuss the performance of these approaches in real conditions: long-day recordings featuring child-centered speech.
 
-—---------------------------------------------------------------------------------
+-------------
+
  <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
     <img
       src="https://i.loli.net/2021/01/17/2JWRcZl6rMKVf87.jpg"
@@ -86,7 +87,7 @@ The question "Who spoke when?" in a recording has become crucial in speech techn
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Mireia Diez Sánchez</div>
       <div>Brno University of Technology</div>
-      <div>Variants of Bayesian HMMs for speaker diarization</div>
+      <div>Title: Variants of Bayesian HMMs for speaker diarization</div>
     </div>
   </div>
   
