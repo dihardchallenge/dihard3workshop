@@ -175,7 +175,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Mireia Diez Sánchez</div>
       <div>Brno University of Technology</div>
-      <div style="font-size: 36px; color:#00C;"><b>Title: Variants of Bayesian HMMs for speaker diarization</b></div>
+      <div style="font-size: 20px; color:#00C;"><b>Title: Variants of Bayesian HMMs for speaker diarization</b></div>
     </div>
   </div>
      
