@@ -51,8 +51,9 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <div>
   12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>
   </div>
-  <div style="margin-left: px">
-  Tsun Yat Leung, Lahiru T Samarakoon (Fano Labs)
+  <div style="margin-left: 60px">
+  Tsun Yat Leung, Lahiru T Samarakoon 
+  (Fano Labs)
     <br />
   <br />
   </div>
