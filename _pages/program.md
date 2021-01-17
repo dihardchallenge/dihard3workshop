@@ -193,8 +193,10 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
       style="width: 230px; height: 230px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
-      <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
+      <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
+      <br />
+      <br />
       <div><b>Title: The yellow brick road of diarization, challenges and other neural paths</b></div>
     </div>
   </div>
