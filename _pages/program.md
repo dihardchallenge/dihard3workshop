@@ -69,7 +69,26 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
-      <div>Diarization, the missing link in Speech Technologies</div>
+      <div>The yellow brick road of diarization, challenges and other neural paths</div>
     </div>
   </div>
+### The yellow brick road of diarization, challenges and other neural paths
+**abstract**
+The question "Who spoke when?" in a recording has become crucial in speech technologies research. Answering this question may improve the performance of downstream applications such as automatic speech recognition, speaker recognition, meeting transcription, and other related fields. Diarization systems seek to answer this question. However, the automatic speaker labeling can be challenging in part due to noisy conditions, speakers talking simultaneously, and imbalanced participation of the speakers. Advances in diarization involve the pursuit of creative new solutions to these problems. In this presentation, we will walk through the yellow brick road of diarization—going briefly from state-of-the-art techniques up through novel neural approaches. We will discuss the challenges of the embedding-clustering method and how neural diarization aims to solve them by formulating the problem as a multi-label classification problem, additionally exploring how neural diarization can elegantly handle overlapping speech. We will detail the benefits of both embedding-clustering and neural diarization and give some hints on how to attain the best of both. Finally, we will discuss the performance of these approaches in real conditions: long-day recordings featuring child-centered speech.
 
+
+ <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
+    <img
+      src="https://i.loli.net/2021/01/17/2JWRcZl6rMKVf87.jpg"
+      alt="avatar"
+      style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
+    />
+    <div style="margin-left: 30px;">
+      <div style="font-weight: bold; font-size: 16px;">Dr. Mireia Diez Sánchez</div>
+      <div>Brno University of Technology</div>
+      <div>Variants of Bayesian HMMs for speaker diarization</div>
+    </div>
+  </div>
+### Variants of Bayesian HMMs for speaker diarization
+**abstract**
+Speaker diarization based on Bayesian HMM and variational Bayes inference was part of the winning system in the two previous DIHARD challenges. In the first DIHARD challenge, the winning system made use of the Bayesian HMM diarization with eigenvoice priors, operating on frame-by-frame cepstral features and incorporating an i-vector-like model to robustly model speaker distributions. In the second DIHARD challenge, the winning system was based on VBx: a BHMM which was directly used to cluster x-vectors and incorporated PLDA to model speaker distributions. In this talk we present these models from a historical perspective. We show how the models evolved from and compare to earlier approaches such as clustering of i-vectors and diarization using factor analysis. Compared to the emerging end-to-end approaches BHMM diarization does not deal with overlapped speech. However, despite this drawback, we show that our method provides state-of-the-art performance also on other datasets such as CALLHOME and AMI. Since we have provided our recipes to train and evaluate VBx on these datasets we believe that this method can serve as strong baseline for future diarization research.
