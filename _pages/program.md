@@ -22,7 +22,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 1
 
-<div style="width: 590px;">
+<div style="width: 730px;">
   <div>
   12:05  <strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>
   </div>
@@ -31,6 +31,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
    (<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)
   </div>
 </div>
+
 
 <div style="width: 590px;">
   <div>
@@ -51,6 +52,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+
 <div style="width: 590px;">
   <div>
   13:10  <strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>
@@ -60,6 +62,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
    (<sup>1</sup>Hitachi, Ltd.; <sup>2</sup>Johns Hopkins University)
   </div>
 </div>
+
 
 # Oral Session 2
 <div style="width: 590px;">
@@ -72,6 +75,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+
 <div style="width: 590px;">
   <div>
   15:10  <strong>The USTC-NELSLIP Systems for DIHARD III Challenge</strong>
@@ -79,6 +83,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <div style="margin-left: 46px">
   Mao-Kui He<sup>1</sup>, Yuxuan Wang<sup>1</sup>, Shutong Niu<sup>1</sup>, Lei Sun<sup>1</sup>,Tian Gao<sup>2</sup>, Xin Fang<sup>2</sup>, Jia Pan<sup>2</sup>, Jun Du<sup>1</sup>, Chin-Hui Lee<sup>3</sup> 
    (<sup>1</sup>University of Science and Technology of China; <sup>2</sup>iFlytek Research; <sup>3</sup>Georgia Institute of Technology)
+   
   </div>
 </div>
 
@@ -92,6 +97,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+
 <div style="width: 590px;">
   <div>
   15:50  <strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>
@@ -101,6 +107,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   (<sup>1</sup>Indian Institute of Technology Kharagpur; <sup>2</sup>Inria)
   </div>
 </div>
+
 
 # Oral Session 3
 <div style="width: 590px;">
@@ -113,6 +120,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+
 <div style="width: 590px;">
   <div>
   17:50  <strong>Diaboliic System for the Third DIHARD</strong>
@@ -120,8 +128,10 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <div style="margin-left: 46px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
   (<sup>1</sup>Intel Labs; <sup>2</sup>Intel Corporation)
+   
   </div>
 </div>
+
 
 <div style="width: 590px;">
   <div>
