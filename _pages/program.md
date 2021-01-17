@@ -168,7 +168,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
  <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
     <img
-      src="https://i.loli.net/2021/01/17/2JWRcZl6rMKVf87.jpg"
+      src="https://i.loli.net/2021/01/17/134v7jPAkxuzr8K.jpg"
       alt="avatar"
       style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
     />
@@ -186,7 +186,7 @@ Speaker diarization based on Bayesian HMM and variational Bayes inference was pa
 # Keynote 2
  <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
     <img
-      src="https://i.loli.net/2021/01/17/3SegznIErMZsNlQ.jpg"
+      src="https://i.loli.net/2021/01/17/BetiW4OxXw9Rrqv.jpg"
       alt="avatar"
       style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
     />
