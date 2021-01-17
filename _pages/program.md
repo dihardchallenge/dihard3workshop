@@ -79,7 +79,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>
   </div>
   <div style="margin-left: 60px">
-  Weiqing Wang<sup>1</sup>, Ming Li<sup>2</sup>,  Qinjian Lin<sup>3</sup>, Danwei Cai, Ming Li
+  Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai, Danwei Cai, Ming Li<sup>2</sup>
    (<sup>1</sup>Duke University; <sup>2</sup>Duke Kunshan University; <sup>3</sup>Lenovo)
     <br />
   <br />
@@ -117,7 +117,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>
   </div>
   <div style="margin-left: 60px">
-  Kishore Kumar A<sup>1</sup>, Shefali Waldekar<sup>1</sup>, Goutam Saha<sup>1</sup>, MD Sahidullah<sup>2</sup> 
+  A Kishore Kumar<sup>1</sup>, Shefali Waldekar<sup>1</sup>, Goutam Saha<sup>1</sup>, MD Sahidullah<sup>2</sup> 
   (<sup>1</sup>Indian Institute of Technology Kharagpur; <sup>2</sup>Inria)
     <br />
   <br />
@@ -166,11 +166,11 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Keynote 1
 
- <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
+ <div style="display: flex; flex-direction: row;height: 260px; align-items: center;background-color: white; ">
     <img
       src="https://i.loli.net/2021/01/17/wiXuJCcyQNI52Ga.jpg"
       alt="avatar"
-      style="width: 220px; height: 220px; border-radius: 50%; margin-left: 20px;"
+      style="width: 260px; height: 260px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Mireia Diez Sánchez</div>
@@ -184,11 +184,11 @@ Speaker diarization based on Bayesian HMM and variational Bayes inference was pa
 
 
 # Keynote 2
- <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
+ <div style="display: flex; flex-direction: row;height: 260px; align-items: center;background-color: white; ">
     <img
       src="https://i.loli.net/2021/01/17/BetiW4OxXw9Rrqv.jpg"
       alt="avatar"
-      style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
+      style="width: 260px; height: 260px; border-radius: 50%; margin-left: 20px;"
     />
     <div style="margin-left: 30px;">
       <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
@@ -199,4 +199,6 @@ Speaker diarization based on Bayesian HMM and variational Bayes inference was pa
       
 **Abstract**   
 The question "Who spoke when?" in a recording has become crucial in speech technologies research. Answering this question may improve the performance of downstream applications such as automatic speech recognition, speaker recognition, meeting transcription, and other related fields. Diarization systems seek to answer this question. However, the automatic speaker labeling can be challenging in part due to noisy conditions, speakers talking simultaneously, and imbalanced participation of the speakers. Advances in diarization involve the pursuit of creative new solutions to these problems. In this presentation, we will walk through the yellow brick road of diarization—going briefly from state-of-the-art techniques up through novel neural approaches. We will discuss the challenges of the embedding-clustering method and how neural diarization aims to solve them by formulating the problem as a multi-label classification problem, additionally exploring how neural diarization can elegantly handle overlapping speech. We will detail the benefits of both embedding-clustering and neural diarization and give some hints on how to attain the best of both. Finally, we will discuss the performance of these approaches in real conditions: long-day recordings featuring child-centered speech.
+
+**Bio**
 
