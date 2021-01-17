@@ -168,7 +168,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
  <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
     <img
-      src="https://i.loli.net/2021/01/17/nU4GPhEFWgNcx13.jpg"
+      src="https://i.loli.net/2021/01/17/wiXuJCcyQNI52Ga.jpg"
       alt="avatar"
       style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
     />
