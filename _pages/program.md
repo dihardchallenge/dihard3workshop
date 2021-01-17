@@ -22,12 +22,10 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 1
 12:05  **Overview of the Third DIHARD Speech Diarization Challenge**  
-<pre>   Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup> 
-        (<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)</code></pre>
+- Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup> (<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)</code></pre>
 
 12:30  **NAVER Clova Submission to the Third DIHARD Challenge**  
-- Heesoo Heo<sup>1</sup>, Jee-weon Jung<sup>1</sup>, Youngki Kwon<sup>1</sup>, You Jin Kim<sup>1</sup>, Jaesung Huh<sup>2</sup>, Joon Son Chung<sup>1</sup>, Bong-Jin Lee<sup>1</sup>   
-(<sup>1</sup>Naver Corporation; <sup>2</sup>University of Oxford)
+- Heesoo Heo<sup>1</sup>, Jee-weon Jung<sup>1</sup>, Youngki Kwon<sup>1</sup>, You Jin Kim<sup>1</sup>, Jaesung Huh<sup>2</sup>, Joon Son Chung<sup>1</sup>, Bong-Jin Lee<sup>1</sup> (<sup>1</sup>Naver Corporation; <sup>2</sup>University of Oxford)
 
 12:50  **End-to-End Speaker Diarization System for the Third DIHARD Challenge**  
 - Tsun Yat Leung<sup>1</sup>, Lahiru T Samarakoon<sup>1</sup> (<sup>1</sup>Fano Labs)
@@ -62,5 +60,16 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 
 # Keynote
-
+ <div style="display: flex; flex-direction: row;height: 200px; align-items: center;background-color: white; ">
+    <img
+      src="https://i.loli.net/2021/01/17/3SegznIErMZsNlQ.jpg"
+      alt="avatar"
+      style="width: 160px; height: 160px; border-radius: 50%; margin-left: 20px;"
+    />
+    <div style="margin-left: 30px;">
+      <div style="font-weight: bold; font-size: 16px;">Dr. Leibny Paola Garcia Perera</div>
+      <div>Johns Hopkins University</div>
+      <div>Diarization, the missing link in Speech Technologies</div>
+    </div>
+  </div>
 
