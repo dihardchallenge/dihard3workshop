@@ -28,7 +28,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
   <div style="margin-left: 60px">
   Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup>  
-   (<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)
+   <div style="font-style: italic;">(<sup>1</sup>Linguistic Data Consortium, University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Electrical Engineering Department, Indian Institute of Science)</div>
   <br />
   <br />
   </div>
@@ -175,7 +175,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Mireia Diez Sánchez</div>
       <div>Brno University of Technology</div>
-      <div><b>Title: Variants of Bayesian HMMs for speaker diarization</b></div>
+      <div style="font-size: 36px; color:#00C;"><b>Title: Variants of Bayesian HMMs for speaker diarization</b></div>
     </div>
   </div>
      
@@ -196,7 +196,7 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
       <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
       <br />
-      <div><b>Title: The yellow brick road of diarization, challenges and other neural paths</b></div>
+      <div ><b>Title: The yellow brick road of diarization, challenges and other neural paths</b></div>
     </div>
   </div>
       
