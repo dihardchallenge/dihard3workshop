@@ -131,7 +131,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>
   </div>
   <div style="margin-left: 60px">
-  Federico Landini<sup>1</sup>, Alicia Lozano-Diez<sup>1</sup>, Lukas Burget<sup>1</sup>, Mireia Diez<sup>1</sup>, Anna Silnova<sup>1</sup>, Kateřina Žmolíková<sup>1</sup>, Ondřej Glembek<sup>1</sup>, Pavel Matějka<sup>1</sup>, Themos Stafylakis<sup>2</sup>, Niko Brummer<sup>2</sup> 
+  Federico Landini<sup>1</sup>, Alicia Lozano-Diez<sup>1</sup>, Lukáš Burget<sup>1</sup>, Mireia Diez<sup>1</sup>, Anna Silnova<sup>1</sup>, Kateřina Žmolíková<sup>1</sup>, Ondrěj Glembek<sup>1</sup>, Pavel Matějka<sup>1</sup>, Themos Stafylakis<sup>2</sup>, Niko Brümmer<sup>2</sup> 
   (<sup>1</sup>Brno University of Technology; <sup>2</sup>Omilia - Conversational Intelligence)
     <br />
   <br />
