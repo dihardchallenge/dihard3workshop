@@ -101,7 +101,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:30 &nbsp;&nbsp;<strong>LEAP Submission for the Third DIHARD Diarization Challenge</strong>
+  15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>
   </div>
   <div style="margin-left: 60px">
   Prachi Singh, Rajat Varma, Venkat Krishnamohan, Srikanth Raj Chetupalli, Sriram Ganapathy 
@@ -141,7 +141,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic System for the Third DIHARD</strong>
+  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
@@ -176,7 +176,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
       <div style="font-weight: bold; font-size: 20px;">Dr. Mireia Diez Sánchez</div>
       <div>Brno University of Technology</div>
       <br />
-      <div style="font-size: 20px; color:#006699;"><b>Title: Variants of Bayesian HMMs for speaker diarization</b></div>
+      <div style="font-size: 20px; color:#006699;"><b>Variants of Bayesian HMMs for speaker diarization</b></div>
     </div>
   </div>
      
@@ -197,7 +197,7 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
       <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
       <br />
-      <div style="font-size: 20px; color:#006699;"><b>Title: The yellow brick road of diarization, challenges and other neural paths</b></div>
+      <div style="font-size: 20px; color:#006699;"><b>The yellow brick road of diarization, challenges and other neural paths</b></div>
     </div>
   </div>
       
