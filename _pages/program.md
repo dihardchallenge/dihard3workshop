@@ -154,7 +154,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  18:10  &nbsp;&nbsp;<strong>USC-SAIL System for DIHARD III: Domain Adaptive Diarization System</strong>
+  18:10  &nbsp;&nbsp;<strong>USC-SAIL System for DIHARD-III Dirazation Challenge</strong>
   </div>
   <div style="margin-left: 60px">
   TaeJin Park, Raghuveer Peri, Arindam Jati, Shrikanth Narayanan 
