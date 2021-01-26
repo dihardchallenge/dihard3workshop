@@ -140,7 +140,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong></a>&nbsp;<a href="paper/Extended_Abstract_dh_diaboliic.pdf"><strong>[Paper]</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slide]</strong></a>
+  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>&nbsp;<a href="paper/Extended_Abstract_dh_diaboliic.pdf"><strong>[Paper]</strong></a>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
@@ -153,7 +153,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong></a>&nbsp;<a href="paper/USC-SAIL System for DIHARD III_ Domain Adaptive Diarization System.pdf"><strong>[Paper]</strong>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slide]</strong></a>
+  18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong>&nbsp;<a href="paper/USC-SAIL System for DIHARD III_ Domain Adaptive Diarization System.pdf"><strong>[Paper]</strong></a>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   TaeJin Park, Raghuveer Peri, Arindam Jati, Shrikanth Narayanan 
