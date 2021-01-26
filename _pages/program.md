@@ -34,7 +34,6 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
-
 <div style="width: 860px;">
   <div>
   12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="paper/NAVER CLOVA SUBMISSION TO THE THIRD DIHARD CHALLENGE.pdf"><strong>[Paper]</strong></a>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>
