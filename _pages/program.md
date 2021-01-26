@@ -49,7 +49,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>
+  12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/End-to-End Speaker Diarization System for the Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Tsun Yat Leung, Lahiru T Samarakoon 
@@ -62,7 +62,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>
+  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Shota Horiguchi<sup>1</sup>, Nelson Yalta<sup>1</sup>, Paola Garcia<sup>2</sup>, Yuki Takashima<sup>1</sup>, Yawen Xue<sup>1</sup>, Desh Raj<sup>2</sup>, Zili Huang<sup>2</sup>, Yusuke Fujita<sup>1</sup>, Shinji Watanabe<sup>2</sup>, Sanjeev Khudanpur<sup>2</sup> 
@@ -76,7 +76,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 # Oral Session 2
 <div style="width: 860px;">
   <div>
-  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>
+  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai<sup>1</sup>, Lin Yang<sup>3</sup>, Ming Li<sup>2</sup>
@@ -89,7 +89,8 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:10 &nbsp;&nbsp;<strong>The USTC-NELSLIP Systems for DIHARD III Challenge</strong>
+  15:10 &nbsp;&nbsp;<strong>The USTC-NELSLIP Systems for DIHARD III Challenge</strong>&nbsp;<a href="slide/The USTC-NELSLIP Systems for DIHARD III Challenge.pdf
+"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Mao-Kui He<sup>1</sup>, Yuxuan Wang<sup>1</sup>, Shutong Niu<sup>1</sup>, Lei Sun<sup>1</sup>,Tian Gao<sup>2</sup>, Xin Fang<sup>2</sup>, Jia Pan<sup>2</sup>, Jun Du<sup>1</sup>, Chin-Hui Lee<sup>3</sup> 
@@ -101,7 +102,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>
+  15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>&nbsp;<a href="slide/LEAP Submission for Third DIHARD Diarization Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Prachi Singh, Rajat Varma, Venkat Krishnamohan, Srikanth Raj Chetupalli, Sriram Ganapathy 
@@ -114,7 +115,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>
+  15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/Domain-Dependent Speaker Diarization for the Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   A Kishore Kumar<sup>1</sup>, Shefali Waldekar<sup>1</sup>, Goutam Saha<sup>1</sup>, MD Sahidullah<sup>2</sup> 
@@ -128,7 +129,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 # Oral Session 3
 <div style="width: 860px;">
   <div>
-  17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>
+  17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/BUT System for The Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Federico Landini<sup>1</sup>, Alicia Lozano-Diez<sup>1</sup>, Lukáš Burget<sup>1</sup>, Mireia Diez<sup>1</sup>, Anna Silnova<sup>1</sup>, Kateřina Žmolíková<sup>1</sup>, Ondrěj Glembek<sup>1</sup>, Pavel Matějka<sup>1</sup>, Themos Stafylakis<sup>2</sup>, Niko Brümmer<sup>2</sup> 
@@ -141,7 +142,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>
+  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
@@ -154,7 +155,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  18:10  &nbsp;&nbsp;<strong>USC-SAIL System for DIHARD-III Dirazation Challenge</strong>
+  18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   TaeJin Park, Raghuveer Peri, Arindam Jati, Shrikanth Narayanan 
