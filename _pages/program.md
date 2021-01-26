@@ -60,7 +60,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="paper/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Paper]</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
+  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="paper/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Paper]</strong></a>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
   </div> 
   <div style="margin-left: 60px">
   Shota Horiguchi<sup>1</sup>, Nelson Yalta<sup>1</sup>, Paola Garcia<sup>2</sup>, Yuki Takashima<sup>1</sup>, Yawen Xue<sup>1</sup>, Desh Raj<sup>2</sup>, Zili Huang<sup>2</sup>, Yusuke Fujita<sup>1</sup>, Shinji Watanabe<sup>2</sup>, Sanjeev Khudanpur<sup>2</sup> 
