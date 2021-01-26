@@ -30,7 +30,6 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup>  
    <div style="font-style: italic;">(<sup>1</sup> University of Pennsylvania； <sup>2</sup>Baidu Research； <sup>3</sup>University of Science and Technology of China； <sup>4</sup>Indian Institute of Science)</div>
   <br />
-  <br />
   </div>
 </div>
 
@@ -61,8 +60,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="paper/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Paper]</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
-  </div>
+  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong></div>&nbsp;<a href="paper/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Paper]</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>
   <div style="margin-left: 60px">
   Shota Horiguchi<sup>1</sup>, Nelson Yalta<sup>1</sup>, Paola Garcia<sup>2</sup>, Yuki Takashima<sup>1</sup>, Yawen Xue<sup>1</sup>, Desh Raj<sup>2</sup>, Zili Huang<sup>2</sup>, Yusuke Fujita<sup>1</sup>, Shinji Watanabe<sup>2</sup>, Sanjeev Khudanpur<sup>2</sup> 
    (<sup>1</sup>Hitachi, Ltd.; <sup>2</sup>Johns Hopkins University)
