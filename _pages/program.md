@@ -47,6 +47,12 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+<style>
+  a{
+    font-weight:bold;
+  }
+</style>
+
 <div style="width: 860px;">
   <div>
   12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>
