@@ -37,7 +37,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong><a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf">[Slide]</a>
+  12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Heesoo Heo<sup>1</sup>, Jee-weon Jung<sup>1</sup>, Youngki Kwon<sup>1</sup>, You Jin Kim<sup>1</sup>, Jaesung Huh<sup>2</sup>, Joon Son Chung<sup>1</sup>, Bong-Jin Lee<sup>1</sup> 
@@ -46,12 +46,6 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <br />
   </div>
 </div>
-
-<style>
-  a{
-    font-weight:bold;
-  }
-</style>
 
 <div style="width: 860px;">
   <div>
