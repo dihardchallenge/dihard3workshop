@@ -74,7 +74,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 # Oral Session 2
 <div style="width: 860px;">
   <div>
-  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slide]</strong></a>&nbsp;<a href=https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6""><strong>[Video]</strong></a>  
+  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai<sup>1</sup>, Lin Yang<sup>3</sup>, Ming Li<sup>2</sup>
