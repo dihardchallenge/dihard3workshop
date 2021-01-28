@@ -177,7 +177,6 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
       <div>Brno University of Technology</div>
       <a href="slide/Bayesian HMM clustering in speaker diarization.pdf"><strong>[Slide]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=333C7eBTnag&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=5"><strong>[Video]</strong></a>
       <br />
-      <br />
       <div style="font-size: 20px; color:#006699;"><b>Variants of Bayesian HMMs for speaker diarization</b></div>
     </div>
   </div>
@@ -198,10 +197,9 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
     <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
-      <br />
+       <a href="slide/KeynoteDihardiii.pdf"><strong>[Slide]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10"><strong>[Video]</strong></a>
       <br />
       <div style="font-size: 20px; color:#006699;"><b>The yellow brick road of diarization, challenges and other neural paths</b></div>
-      <a href="slide/KeynoteDihardiii.pdf"><strong>[Slide]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10"><strong>[Video]</strong></a>
     </div>
   </div>
       
