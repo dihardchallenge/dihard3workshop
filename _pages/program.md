@@ -32,7 +32,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 1
 
-<div style="width:860px;">
+<div style="width:900px;">
   <div>
   12:05 &nbsp;&nbsp;<strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/DIHARD_III_Overview.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Xm9iyRP9pc0&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=1"><strong>[Video]</strong></a>
   </div>
@@ -43,7 +43,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
-<div style="width: 860px;">
+<div style="width: 900px;">
   <div>
   12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2"><strong>[Video]</strong></a>  
   </div>
@@ -55,7 +55,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
-<div style="width: 860px;">
+<div style="width: 900px;">
   <div>
   12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/End-to-End Speaker Diarization System for the Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Vxk0aMZxZYY&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=3"><strong>[Video]</strong></a>
   </div>
