@@ -24,7 +24,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width:860px;">
   <div>
-  12:00 &nbsp;&nbsp;<strong>Welcome to the Third DIHARD Speech Diarization Challenge Workshop</strong>&nbsp;<a href="slide/DIHARD_III_Overview.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Xm9iyRP9pc0&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=1"><strong>[Full Video]</strong></a>
+  12:00 &nbsp;&nbsp;<strong>Welcome to the Third DIHARD Speech Diarization Challenge Workshop</strong>&nbsp;<a href="slide/DIHARD_Welcome.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://youtu.be/LeiLAl5g42s"><strong>[Full Video]</strong></a>
   </div>
   <br />
 </div>
@@ -150,7 +150,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
+  17:50  &nbsp;&nbsp;<strong>Diaboliic@DIHARD3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
