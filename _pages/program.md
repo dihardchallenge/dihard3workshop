@@ -150,7 +150,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic@DIHARD3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
+  17:50  &nbsp;&nbsp;<strong>Diaboliic@DIHARD3</strong>&nbsp;<a href="slide/Diaboliic@DIHARD3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
