@@ -26,7 +26,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   <div>
   12:00 &nbsp;&nbsp;<strong>Welcome to the Third DIHARD Speech Diarization Challenge Workshop</strong>&nbsp;<a href="slide/DIHARD_Welcome.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://youtu.be/LeiLAl5g42s"><strong>[Workshop Video]</strong></a>
   </div> 
-  
+  <br />
   <br />
 </div>
 
