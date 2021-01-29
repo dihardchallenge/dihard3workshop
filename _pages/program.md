@@ -24,7 +24,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width:860px;">
   <div>
-  12:05 &nbsp;&nbsp;<strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/DIHARD_III_Overview.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Xm9iyRP9pc0&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=1"><strong>[Video]</strong></a>
+  12:05 &nbsp;&nbsp;<strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/DIHARD_III_Overview.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Xm9iyRP9pc0&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=1"><strong>[Video]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Neville Ryant<sup>1</sup>, Kenneth Church<sup>2</sup>, Christoper Cieri<sup>1</sup>, Jun Du<sup>3</sup>, Sriram Ganapathy<sup>4</sup>, Mark Liberman<sup>1</sup>  
@@ -35,7 +35,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2"><strong>[Video]</strong></a>  
+  12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Heesoo Heo<sup>1</sup>, Jee-weon Jung<sup>1</sup>, Youngki Kwon<sup>1</sup>, You Jin Kim<sup>1</sup>, Jaesung Huh<sup>2</sup>, Joon Son Chung<sup>1</sup>, Bong-Jin Lee<sup>1</sup> 
@@ -47,7 +47,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/End-to-End Speaker Diarization System for the Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Vxk0aMZxZYY&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=3"><strong>[Video]</strong></a>
+  12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/End-to-End Speaker Diarization System for the Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Vxk0aMZxZYY&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=3"><strong>[Video]</strong></a>
   </div>
   <div style="margin-left: 60px">
   Tsun Yat Leung, Lahiru T Samarakoon 
@@ -60,7 +60,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4"><strong>[Video]</strong></a>
+  13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4"><strong>[Video]</strong></a>
   </div> 
   <div style="margin-left: 60px">
   Shota Horiguchi<sup>1</sup>, Nelson Yalta<sup>1</sup>, Paola Garcia<sup>2</sup>, Yuki Takashima<sup>1</sup>, Yawen Xue<sup>1</sup>, Desh Raj<sup>2</sup>, Zili Huang<sup>2</sup>, Yusuke Fujita<sup>1</sup>, Shinji Watanabe<sup>2</sup>, Sanjeev Khudanpur<sup>2</sup> 
@@ -74,7 +74,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 # Oral Session 2
 <div style="width: 860px;">
   <div>
-  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6"><strong>[Video]</strong></a>  
+  14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Weiqing Wang<sup>1</sup>, Qinjian Lin<sup>3</sup>, Danwei Cai<sup>1</sup>, Lin Yang<sup>3</sup>, Ming Li<sup>2</sup>
@@ -88,7 +88,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 <div style="width: 860px;">
   <div>
   15:10 &nbsp;&nbsp;<strong>The USTC-NELSLIP Systems for DIHARD III Challenge</strong>&nbsp;<a href="slide/The USTC-NELSLIP Systems for DIHARD III Challenge.pdf
-"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7"><strong>[Video]</strong></a>  
+"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=ijNPazF8EwU&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=7"><strong>[Video]</strong></a>  
 
   </div>
   <div style="margin-left: 60px">
@@ -101,7 +101,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>&nbsp;<a href="slide/LEAP Submission for Third DIHARD Diarization Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=_QvARv_vKA8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=8"><strong>[Video]</strong></a>  
+  15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>&nbsp;<a href="slide/LEAP Submission for Third DIHARD Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=_QvARv_vKA8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=8"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Prachi Singh, Rajat Varma, Venkat Krishnamohan, Srikanth Raj Chetupalli, Sriram Ganapathy 
@@ -114,7 +114,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/Domain-Dependent Speaker Diarization for the Third DIHARD Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=rDc8ouizrmo&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=9"><strong>[Video]</strong></a>  
+  15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/Domain-Dependent Speaker Diarization for the Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=rDc8ouizrmo&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=9"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   A Kishore Kumar<sup>1</sup>, Shefali Waldekar<sup>1</sup>, Goutam Saha<sup>1</sup>, MD Sahidullah<sup>2</sup> 
@@ -128,7 +128,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 # Oral Session 3
 <div style="width: 860px;">
   <div>
-  17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/BUT System for The Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vwqb6mvst5E&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=11"><strong>[Video]</strong></a>  
+  17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/BUT System for The Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vwqb6mvst5E&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=11"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Federico Landini<sup>1</sup>, Alicia Lozano-Diez<sup>1</sup>, Lukáš Burget<sup>1</sup>, Mireia Diez<sup>1</sup>, Anna Silnova<sup>1</sup>, Kateřina Žmolíková<sup>1</sup>, Ondrěj Glembek<sup>1</sup>, Pavel Matějka<sup>1</sup>, Themos Stafylakis<sup>2</sup>, Niko Brümmer<sup>2</sup> 
@@ -141,7 +141,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
+  17:50  &nbsp;&nbsp;<strong>Diaboliic @ DIHARD 3</strong>&nbsp;<a href="slide/Diaboliic @ DIHARD 3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   Wenda Chen<sup>1</sup>, Sangeeta Ghangam<sup>2</sup> 
@@ -154,7 +154,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 <div style="width: 860px;">
   <div>
-  18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slide]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vSAIw37z9jk&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=13"><strong>[Video]</strong></a>  
+  18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vSAIw37z9jk&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=13"><strong>[Video]</strong></a>  
   </div>
   <div style="margin-left: 60px">
   TaeJin Park, Raghuveer Peri, Arindam Jati, Shrikanth Narayanan 
@@ -175,7 +175,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
     <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Mireia Diez Sánchez</div>
       <div>Brno University of Technology</div>
-      <a href="slide/Bayesian HMM clustering in speaker diarization.pdf"><strong>[Slide]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=333C7eBTnag&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=5"><strong>[Video]</strong></a>
+      <a href="slide/Bayesian HMM clustering in speaker diarization.pdf"><strong>[Slides]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=333C7eBTnag&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=5"><strong>[Video]</strong></a>
       <br />
       <br />
       <div style="font-size: 20px; color:#006699;"><b>Variants of Bayesian HMMs for speaker diarization</b></div>
@@ -198,7 +198,7 @@ Dr. Mireia Diez Sánchez is a researcher at the speech@FIT group at Brno Univers
     <div style="margin-left: 36px;">
       <div style="font-weight: bold; font-size: 20px;">Dr. Leibny Paola Garcia Perera</div>
       <div>Johns Hopkins University</div>
-       <a href="slide/The yellow brick road of diarization, challenges and other neural paths.pdf"><strong>[Slide]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10"><strong>[Video]</strong></a>
+       <a href="slide/The yellow brick road of diarization, challenges and other neural paths.pdf"><strong>[Slides]</strong></a>&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=_usbos-SJlg&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=10"><strong>[Video]</strong></a>
       <br />
       <br />
       <div style="font-size: 20px; color:#006699;"><b>The yellow brick road of diarization, challenges and other neural paths</b></div>
