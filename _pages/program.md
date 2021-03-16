@@ -34,6 +34,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 # Oral Session 1
 
+<a name="overview"></a>
 <div style="width:860px;">
   <div>
   12:05 &nbsp;&nbsp;<strong>Overview of the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/DIHARD_III_Overview.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Xm9iyRP9pc0&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=1"><strong>[Video]</strong></a>
@@ -45,6 +46,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+<a name="clova"></a>
 <div style="width: 860px;">
   <div>
   12:30 &nbsp;&nbsp;<strong>NAVER Clova Submission to the Third DIHARD Challenge</strong>&nbsp;<a href="slide/NAVER Clova Submission To The Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=X9F2WPWJIR4&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=2"><strong>[Video]</strong></a>  
@@ -57,6 +59,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+<a name="fano"></a>
 <div style="width: 860px;">
   <div>
   12:50 &nbsp;&nbsp;<strong>End-to-End Speaker Diarization System for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/End-to-End Speaker Diarization System for the Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=Vxk0aMZxZYY&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=3"><strong>[Video]</strong></a>
@@ -69,7 +72,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
-
+<a name="hitachi-jhu"></a>
 <div style="width: 860px;">
   <div>
   13:10 &nbsp;&nbsp;<strong>Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/Hitachi-JHU System for the Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=xKGzrF1YEjQ&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=4"><strong>[Video]</strong></a>
@@ -84,6 +87,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 
 # Oral Session 2
+<a name="dku-duke-lenovo"></a>
 <div style="width: 860px;">
   <div>
   14:50 &nbsp;&nbsp;<strong>System Description for Team DKU-Duke-Lenovo</strong>&nbsp;<a href="slide/System Description for Team DKU-Duke-Lenovo.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=FF5QAm6Jgy8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=6"><strong>[Video]</strong></a>  
@@ -97,6 +101,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 </div>
 
 
+<a name="ustc-nelslip"></a>
 <div style="width: 860px;">
   <div>
   15:10 &nbsp;&nbsp;<strong>The USTC-NELSLIP Systems for DIHARD III Challenge</strong>&nbsp;<a href="slide/The USTC-NELSLIP Systems for DIHARD III Challenge.pdf
@@ -111,6 +116,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
+<a name="leap"></a>
 <div style="width: 860px;">
   <div>
   15:30 &nbsp;&nbsp;<strong>LEAP Submission for Third DIHARD Diarization Challenge</strong>&nbsp;<a href="slide/LEAP Submission for Third DIHARD Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=_QvARv_vKA8&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=8"><strong>[Video]</strong></a>  
@@ -123,7 +129,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
   </div>
 </div>
 
-
+<a name="iit-kharagpur"></a>
 <div style="width: 860px;">
   <div>
   15:50 &nbsp;&nbsp;<strong>Domain-Dependent Speaker Diarization for the Third DIHARD Challenge</strong>&nbsp;<a href="slide/Domain-Dependent Speaker Diarization for the Third DIHARD Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=rDc8ouizrmo&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=9"><strong>[Video]</strong></a>  
@@ -138,6 +144,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 
 
 # Oral Session 3
+<a name="but"></a>
 <div style="width: 860px;">
   <div>
   17:30  &nbsp;&nbsp;<strong>BUT System for The Third DIHARD Speech Diarization Challenge</strong>&nbsp;<a href="slide/BUT System for The Third DIHARD Speech Diarization Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vwqb6mvst5E&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=11"><strong>[Video]</strong></a>  
@@ -151,6 +158,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 </div>
 
 
+<a name="diaboliic"></a>
 <div style="width: 860px;">
   <div>
   17:50  &nbsp;&nbsp;<strong>Diaboliic@DIHARD3</strong>&nbsp;<a href="slide/Diaboliic@DIHARD3.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=v5gAJ9u5gGE&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=12"><strong>[Video]</strong></a>  
@@ -164,6 +172,7 @@ Date Time: Saturday, January 23rd, 2021, 12:00 PM UTC
 </div>
 
 
+<a name="sail-usc"></a>
 <div style="width: 860px;">
   <div>
   18:10  &nbsp;&nbsp;<strong>DIHARD 3 Dirazation Challenge</strong>&nbsp;<a href="slide/DIHARD 3 Dirazation Challenge.pdf"><strong>[Slides]</strong></a>&nbsp;<a href="https://www.youtube.com/watch?v=vSAIw37z9jk&list=PLK8w8IgaxTVrf1DBMajNytq87bZi183El&index=13"><strong>[Video]</strong></a>  
